@@ -1,0 +1,6 @@
+framework module Pods_GDQ_Tracker {
+  umbrella header "Pods-GDQ Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
